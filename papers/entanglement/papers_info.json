@@ -1,0 +1,51 @@
+{
+  "1911.10854v2": {
+    "title": "Entanglement fidelity and measure of entanglement",
+    "authors": [
+      "Vahid Azimi Mousolou"
+    ],
+    "summary": "The notion of entanglement fidelity is to measure entanglement preservation\nthrough quantum channels. Nevertheless, the amount of entanglement present in a\nstate of a quantum system at any time is measured by quantities known as\nmeasures of entanglement. Since there are different types of measures of\nentanglement, one may expect an entanglement fidelity to associate with its own\nmeasure of entanglement counterpart. Here, we aim to investigate association\nbetween the so called entanglement fidelity and some measures of entanglement,\nnamely, entanglement of formation, concurrence and negativity. New entanglement\nfidelities based upon these measures of entanglement are introduced and\nstatistically compared with the so called previously introduced entanglement\nfidelity. It is shown that the entangling aspect of the so called entanglement\nfidelity is neither of type entanglement of formation and concurrence nor of\ntype negativity. The results, in addition, expose inability of the so called\nentanglement fidelity for detecting, in a broad sense, entanglement\npreservation through quantum channels. Our analyses opens up a new venue in the\nstudy of entanglement fidelity and measure of entanglement by demonstrating\nthat each measure of entanglement solely defines its own entanglement fidelity.",
+    "pdf_url": "http://arxiv.org/pdf/1911.10854v2",
+    "published": "2019-11-25"
+  },
+  "quant-ph/0112019v2": {
+    "title": "Classical entanglement",
+    "authors": [
+      "Douglas G. Danforth"
+    ],
+    "summary": "Classical systems can be entangled. Entanglement is defined by coincidence\ncorrelations. Quantum entanglement experiments can be mimicked by a mechanical\nsystem with a single conserved variable and 77.8% conditional efficiency.\nExperiments are replicated for four particle entanglement swapping and GHZ\nentanglement.",
+    "pdf_url": "http://arxiv.org/pdf/quant-ph/0112019v2",
+    "published": "2001-12-04"
+  },
+  "0708.3630v1": {
+    "title": "Floating Entanglement Witness Measure and Genetic Algorithm",
+    "authors": [
+      "A. Baghbanpourasl",
+      "G. Najarbashi",
+      "M. Seyedkazemi"
+    ],
+    "summary": "In this paper based on the notion of entanglement witness, a new measure of\nentanglement called floating entanglement witness measure is introduced which\nsatisfies some of the usual properties of a good entanglement measure. By\nexploiting genetic algorithm, we introduce a classical algorithm that computes\nfloating entanglement witness measure. This algorithm also provides a method\nfor finding entanglement witness for a given entangled state.",
+    "pdf_url": "http://arxiv.org/pdf/0708.3630v1",
+    "published": "2007-08-27"
+  },
+  "2312.17620v1": {
+    "title": "Lower Bounds of Entanglement Quantifiers Based On Entanglement Witnesses",
+    "authors": [
+      "Xian Shi"
+    ],
+    "summary": "To quantify the entanglement of bipartite systems in terms of some\nentanglement measure is a challenging problem in general, and it is much worse\nwhen the information about the system is less. In this manuscript, based on two\nclasses of entanglement criteria, we present a method to obtain the lower\nbounds of the entanglement measures, concurrence, entanglement of formation,\nand geometrical entanglement measure.",
+    "pdf_url": "http://arxiv.org/pdf/2312.17620v1",
+    "published": "2023-12-29"
+  },
+  "2403.01391v1": {
+    "title": "Planar two-region multi-partite maximally entangled states",
+    "authors": [
+      "Yanwen Liang",
+      "Fengli Yan",
+      "Ting Gao"
+    ],
+    "summary": "In entanglement theory, there are different methods to consider one state\nbeing more entangled than another. The \"maximally\" entangled states in a\nmultipartite system can be defined from an axiomatic perspective. According to\ndifferent criteria for selection, there are many specific types of quantum\nmaximally entangled states, such as absolutely maximally entangled state,\nplanar maximally entangled state and so on. In this paper we propose a new type\nof maximally entangled states, the planar two-region multipartite maximally\nentangled state. The requirement condition of this maximally entangled state is\nweak than that of the absolutely maximally entangled state and different from\nthat of the planar maximally entangled state. We show that there are the\ntwo-region four-partite maximally entangled states in 4-qubit and 7-qubit\nplanar systems, although there is no absolutely maximally entangled state in\nthese systems. It is proved that there are the planar two-region four-partite\nmaximally entangled states in both even particle quantum systems and odd\nparticle quantum systems. Additionally, based on some planar two-region\nfour-partite maximally entangled states, the new planar two-region four-partite\nmaximally entangled states are generated. We also provide some important\nexamples of the planar two-region multi-partite maximally entangled states.",
+    "pdf_url": "http://arxiv.org/pdf/2403.01391v1",
+    "published": "2024-03-03"
+  }
+}

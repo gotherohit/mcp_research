@@ -1,0 +1,53 @@
+{
+  "1310.4319v3": {
+    "title": "Introduction to the AdS/CFT correspondence",
+    "authors": [
+      "Alfonso V. Ramallo"
+    ],
+    "summary": "This is a pedagogical introduction to the AdS/CFT correspondence, based on\nlectures delivered by the author at the third IDPASC school. Starting with the\nconceptual basis of the holographic dualities, the subject is developed\nemphasizing some concrete topics, which are discussed in detail. A very brief\nintroduction to string theory is provided, containing the minimal ingredients\nto understand the origin of the AdS/CFT duality. Other topics covered are the\nholographic calculation of correlation functions, quark-antiquark potentials\nand transport coefficients.",
+    "pdf_url": "http://arxiv.org/pdf/1310.4319v3",
+    "published": "2013-10-16"
+  },
+  "hep-th/0001056v2": {
+    "title": "On Open/Closed String Duality",
+    "authors": [
+      "J. Khoury",
+      "H. Verlinde"
+    ],
+    "summary": "It was recently shown, using the AdS/CFT correspondence, that the low energy\neffective action of a large $N$ open string theory satisfies a holographic RG\nflow equation closely related to the Hamilton-Jacobi equation of 5-d\nsupergravity. In this paper we re-obtain the same flow equation in the dual\nregime of small 't Hooft coupling $\\lambda\\ll 1$. Our derivation makes use of\nthe conformal equivalence between planar open string diagrams and closed string\ntree diagrams. This equivalence can be viewed as a microscopic explanation of\nthe open/closed string duality that underlies the AdS/CFT correspondence.",
+    "pdf_url": "http://arxiv.org/pdf/hep-th/0001056v2",
+    "published": "2000-01-10"
+  },
+  "2102.02619v3": {
+    "title": "Holographic tensor network models and quantum error correction: A topical review",
+    "authors": [
+      "Alexander Jahn",
+      "Jens Eisert"
+    ],
+    "summary": "Recent progress in studies of holographic dualities, originally motivated by\ninsights from string theory, has led to a confluence with concepts and\ntechniques from quantum information theory. A particularly successful approach\nhas involved capturing holographic properties by means of tensor networks which\nnot only give rise to physically meaningful correlations of holographic\nboundary states, but also reproduce and refine features of quantum error\ncorrection in holography. This topical review provides an overview over recent\nsuccessful realizations of such models. It does so by building on an\nintroduction of the theoretical foundations of AdS/CFT and necessary quantum\ninformation concepts, many of which have themselves developed into independent,\nrapidly evolving research fields.",
+    "pdf_url": "http://arxiv.org/pdf/2102.02619v3",
+    "published": "2021-02-04"
+  },
+  "1501.04278v2": {
+    "title": "Emergence in Holographic Scenarios for Gravity",
+    "authors": [
+      "Dennis Dieks",
+      "Jeroen van Dongen",
+      "Sebastian de Haro"
+    ],
+    "summary": "'Holographic' relations between theories have become an important theme in\nquantum gravity research. These relations entail that a theory without gravity\nis equivalent to a gravitational theory with an extra spatial dimension. The\nidea of holography was first proposed in 1993 by Gerard 't Hooft on the basis\nof his studies of evaporating black holes. Soon afterwards the holographic\n'AdS/CFT' duality was introduced, which since has been intensively studied in\nthe string theory community and beyond. Recently, Erik Verlinde has proposed\nthat even Newton's law of gravitation can be related holographically to the\n`thermodynamics of information' on screens. We discuss these scenarios, with\nspecial attention to the status of the holographic relation in them and to the\nquestion of whether they make gravity and spacetime emergent. We conclude that\nonly Verlinde's scheme straightfowardly instantiates emergence. However,\nassuming a non-standard interpretation of AdS/CFT may create room for the\nemergence of spacetime and gravity there as well.",
+    "pdf_url": "http://arxiv.org/pdf/1501.04278v2",
+    "published": "2015-01-18"
+  },
+  "2507.06147v1": {
+    "title": "de Sitter Holography and Carrollian Brane Theories",
+    "authors": [
+      "Andr\u00e9s Argando\u00f1a",
+      "Alberto Guijosa",
+      "Sergio Pati\u00f1o-L\u00f3pez"
+    ],
+    "summary": "It was discovered in recent months that the anti-de Sitter (AdS) backgrounds\ninvolved in all familiar top-down examples of AdS/CFT duality follow from\napplying a transverse nonrelativistic brane limit to string/M theory on\n(asymptotically) flat spacetime. In this note we show that an exactly analogous\nstatement holds for de Sitter (dS) backgrounds relevant to particular instances\nof dS/CFT duality, which are obtained via a longitudinal Carrollian brane\nlimit. This statement makes direct contact with the holographic duality\ninferred by Hull via temporal T-duality.",
+    "pdf_url": "http://arxiv.org/pdf/2507.06147v1",
+    "published": "2025-07-08"
+  }
+}

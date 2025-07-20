@@ -1,0 +1,112 @@
+{
+  "1807.08169v1": {
+    "title": "Recent Advances in Deep Learning: An Overview",
+    "authors": [
+      "Matiur Rahman Minar",
+      "Jibon Naher"
+    ],
+    "summary": "Deep Learning is one of the newest trends in Machine Learning and Artificial\nIntelligence research. It is also one of the most popular scientific research\ntrends now-a-days. Deep learning methods have brought revolutionary advances in\ncomputer vision and machine learning. Every now and then, new and new deep\nlearning techniques are being born, outperforming state-of-the-art machine\nlearning and even existing deep learning techniques. In recent years, the world\nhas seen many major breakthroughs in this field. Since deep learning is\nevolving at a huge speed, its kind of hard to keep track of the regular\nadvances especially for new researchers. In this paper, we are going to briefly\ndiscuss about recent advances in Deep Learning for past few years.",
+    "pdf_url": "http://arxiv.org/pdf/1807.08169v1",
+    "published": "2018-07-21"
+  },
+  "1707.07217v1": {
+    "title": "Deep Learning in Robotics: A Review of Recent Research",
+    "authors": [
+      "Harry A. Pierson",
+      "Michael S. Gashler"
+    ],
+    "summary": "Advances in deep learning over the last decade have led to a flurry of\nresearch in the application of deep artificial neural networks to robotic\nsystems, with at least thirty papers published on the subject between 2014 and\nthe present. This review discusses the applications, benefits, and limitations\nof deep learning vis-\\`a-vis physical robotic systems, using contemporary\nresearch as exemplars. It is intended to communicate recent advances to the\nwider robotics community and inspire additional interest in and application of\ndeep learning in robotics.",
+    "pdf_url": "http://arxiv.org/pdf/1707.07217v1",
+    "published": "2017-07-22"
+  },
+  "1906.10025v2": {
+    "title": "Modern Deep Reinforcement Learning Algorithms",
+    "authors": [
+      "Sergey Ivanov",
+      "Alexander D'yakonov"
+    ],
+    "summary": "Recent advances in Reinforcement Learning, grounded on combining classical\ntheoretical results with Deep Learning paradigm, led to breakthroughs in many\nartificial intelligence tasks and gave birth to Deep Reinforcement Learning\n(DRL) as a field of research. In this work latest DRL algorithms are reviewed\nwith a focus on their theoretical justification, practical limitations and\nobserved empirical properties.",
+    "pdf_url": "http://arxiv.org/pdf/1906.10025v2",
+    "published": "2019-06-24"
+  },
+  "2303.02715v1": {
+    "title": "Deep Learning in the Field of Biometric Template Protection: An Overview",
+    "authors": [
+      "Christian Rathgeb",
+      "Jascha Kolberg",
+      "Andreas Uhl",
+      "Christoph Busch"
+    ],
+    "summary": "Today, deep learning represents the most popular and successful form of\nmachine learning. Deep learning has revolutionised the field of pattern\nrecognition, including biometric recognition. Biometric systems utilising deep\nlearning have been shown to achieve auspicious recognition accuracy, surpassing\nhuman performance. Apart from said breakthrough advances in terms of biometric\nperformance, the use of deep learning was reported to impact different\ncovariates of biometrics such as algorithmic fairness, vulnerability to\nattacks, or template protection. Technologies of biometric template protection\nare designed to enable a secure and privacy-preserving deployment of\nbiometrics. In the recent past, deep learning techniques have been frequently\napplied in biometric template protection systems for various purposes. This\nwork provides an overview of how advances in deep learning take influence on\nthe field of biometric template protection. The interrelation between improved\nbiometric performance rates and security in biometric template protection is\nelaborated. Further, the use of deep learning for obtaining feature\nrepresentations that are suitable for biometric template protection is\ndiscussed. Novel methods that apply deep learning to achieve various goals of\nbiometric template protection are surveyed along with deep learning-based\nattacks.",
+    "pdf_url": "http://arxiv.org/pdf/2303.02715v1",
+    "published": "2023-03-05"
+  },
+  "1703.02910v1": {
+    "title": "Deep Bayesian Active Learning with Image Data",
+    "authors": [
+      "Yarin Gal",
+      "Riashat Islam",
+      "Zoubin Ghahramani"
+    ],
+    "summary": "Even though active learning forms an important pillar of machine learning,\ndeep learning tools are not prevalent within it. Deep learning poses several\ndifficulties when used in an active learning setting. First, active learning\n(AL) methods generally rely on being able to learn and update models from small\namounts of data. Recent advances in deep learning, on the other hand, are\nnotorious for their dependence on large amounts of data. Second, many AL\nacquisition functions rely on model uncertainty, yet deep learning methods\nrarely represent such model uncertainty. In this paper we combine recent\nadvances in Bayesian deep learning into the active learning framework in a\npractical way. We develop an active learning framework for high dimensional\ndata, a task which has been extremely challenging so far, with very sparse\nexisting literature. Taking advantage of specialised models such as Bayesian\nconvolutional neural networks, we demonstrate our active learning techniques\nwith image data, obtaining a significant improvement on existing active\nlearning approaches. We demonstrate this on both the MNIST dataset, as well as\nfor skin cancer diagnosis from lesion images (ISIC2016 task).",
+    "pdf_url": "http://arxiv.org/pdf/1703.02910v1",
+    "published": "2017-03-08"
+  },
+  "1908.03673v1": {
+    "title": "Recent Advances in Deep Learning for Object Detection",
+    "authors": [
+      "Xiongwei Wu",
+      "Doyen Sahoo",
+      "Steven C. H. Hoi"
+    ],
+    "summary": "Object detection is a fundamental visual recognition problem in computer\nvision and has been widely studied in the past decades. Visual object detection\naims to find objects of certain target classes with precise localization in a\ngiven image and assign each object instance a corresponding class label. Due to\nthe tremendous successes of deep learning based image classification, object\ndetection techniques using deep learning have been actively studied in recent\nyears. In this paper, we give a comprehensive survey of recent advances in\nvisual object detection with deep learning. By reviewing a large body of recent\nrelated work in literature, we systematically analyze the existing object\ndetection frameworks and organize the survey into three major parts: (i)\ndetection components, (ii) learning strategies, and (iii) applications &\nbenchmarks. In the survey, we cover a variety of factors affecting the\ndetection performance in detail, such as detector architectures, feature\nlearning, proposal generation, sampling strategies, etc. Finally, we discuss\nseveral future directions to facilitate and spur future research for visual\nobject detection with deep learning. Keywords: Object Detection, Deep Learning,\nDeep Convolutional Neural Networks",
+    "pdf_url": "http://arxiv.org/pdf/1908.03673v1",
+    "published": "2019-08-10"
+  },
+  "1804.02527v1": {
+    "title": "Visual Analytics for Explainable Deep Learning",
+    "authors": [
+      "Jaegul Choo",
+      "Shixia Liu"
+    ],
+    "summary": "Recently, deep learning has been advancing the state of the art in artificial\nintelligence to a new level, and humans rely on artificial intelligence\ntechniques more than ever. However, even with such unprecedented advancements,\nthe lack of explanation regarding the decisions made by deep learning models\nand absence of control over their internal processes act as major drawbacks in\ncritical decision-making processes, such as precision medicine and law\nenforcement. In response, efforts are being made to make deep learning\ninterpretable and controllable by humans. In this paper, we review visual\nanalytics, information visualization, and machine learning perspectives\nrelevant to this aim, and discuss potential challenges and future research\ndirections.",
+    "pdf_url": "http://arxiv.org/pdf/1804.02527v1",
+    "published": "2018-04-07"
+  },
+  "2108.11510v1": {
+    "title": "Deep Reinforcement Learning in Computer Vision: A Comprehensive Survey",
+    "authors": [
+      "Ngan Le",
+      "Vidhiwar Singh Rathour",
+      "Kashu Yamazaki",
+      "Khoa Luu",
+      "Marios Savvides"
+    ],
+    "summary": "Deep reinforcement learning augments the reinforcement learning framework and\nutilizes the powerful representation of deep neural networks. Recent works have\ndemonstrated the remarkable successes of deep reinforcement learning in various\ndomains including finance, medicine, healthcare, video games, robotics, and\ncomputer vision. In this work, we provide a detailed review of recent and\nstate-of-the-art research advances of deep reinforcement learning in computer\nvision. We start with comprehending the theories of deep learning,\nreinforcement learning, and deep reinforcement learning. We then propose a\ncategorization of deep reinforcement learning methodologies and discuss their\nadvantages and limitations. In particular, we divide deep reinforcement\nlearning into seven main categories according to their applications in computer\nvision, i.e. (i)landmark localization (ii) object detection; (iii) object\ntracking; (iv) registration on both 2D image and 3D image volumetric data (v)\nimage segmentation; (vi) videos analysis; and (vii) other applications. Each of\nthese categories is further analyzed with reinforcement learning techniques,\nnetwork design, and performance. Moreover, we provide a comprehensive analysis\nof the existing publicly available datasets and examine source code\navailability. Finally, we present some open issues and discuss future research\ndirections on deep reinforcement learning in computer vision",
+    "pdf_url": "http://arxiv.org/pdf/2108.11510v1",
+    "published": "2021-08-25"
+  },
+  "2303.07502v1": {
+    "title": "Meta-learning approaches for few-shot learning: A survey of recent advances",
+    "authors": [
+      "Hassan Gharoun",
+      "Fereshteh Momenifar",
+      "Fang Chen",
+      "Amir H. Gandomi"
+    ],
+    "summary": "Despite its astounding success in learning deeper multi-dimensional data, the\nperformance of deep learning declines on new unseen tasks mainly due to its\nfocus on same-distribution prediction. Moreover, deep learning is notorious for\npoor generalization from few samples. Meta-learning is a promising approach\nthat addresses these issues by adapting to new tasks with few-shot datasets.\nThis survey first briefly introduces meta-learning and then investigates\nstate-of-the-art meta-learning methods and recent advances in: (I)\nmetric-based, (II) memory-based, (III), and learning-based methods. Finally,\ncurrent challenges and insights for future researches are discussed.",
+    "pdf_url": "http://arxiv.org/pdf/2303.07502v1",
+    "published": "2023-03-13"
+  },
+  "1904.05526v2": {
+    "title": "A Selective Overview of Deep Learning",
+    "authors": [
+      "Jianqing Fan",
+      "Cong Ma",
+      "Yiqiao Zhong"
+    ],
+    "summary": "Deep learning has arguably achieved tremendous success in recent years. In\nsimple words, deep learning uses the composition of many nonlinear functions to\nmodel the complex dependency between input features and labels. While neural\nnetworks have a long history, recent advances have greatly improved their\nperformance in computer vision, natural language processing, etc. From the\nstatistical and scientific perspective, it is natural to ask: What is deep\nlearning? What are the new characteristics of deep learning, compared with\nclassical methods? What are the theoretical foundations of deep learning? To\nanswer these questions, we introduce common neural network models (e.g.,\nconvolutional neural nets, recurrent neural nets, generative adversarial nets)\nand training techniques (e.g., stochastic gradient descent, dropout, batch\nnormalization) from a statistical point of view. Along the way, we highlight\nnew characteristics of deep learning (including depth and over-parametrization)\nand explain their practical and theoretical benefits. We also sample recent\nresults on theories of deep learning, many of which are only suggestive. While\na complete understanding of deep learning remains elusive, we hope that our\nperspectives and discussions serve as a stimulus for new statistical research.",
+    "pdf_url": "http://arxiv.org/pdf/1904.05526v2",
+    "published": "2019-04-10"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "1111.0991v1": {
+    "title": "Permutation Orbifolds in Conformal Field Theories and String Theory",
+    "authors": [
+      "M. Maio"
+    ],
+    "summary": "We summarize the results obtained in the last few years about permutation\norbifolds in two-dimensional conformal field theories, their application to\nstring theory and their use in the construction of four-dimensional heterotic\nstring models.",
+    "pdf_url": "http://arxiv.org/pdf/1111.0991v1",
+    "published": "2011-11-03"
+  },
+  "hep-th/9702155v1": {
+    "title": "String Theory on Calabi-Yau Manifolds",
+    "authors": [
+      "Brian Greene"
+    ],
+    "summary": "These lectures are devoted to introducing some of the basic features of\nquantum geometry that have been emerging from compactified string theory over\nthe last couple of years. The developments discussed include new geometric\nfeatures of string theory which occur even at the classical level as well as\nthose which require non-perturbative effects. These lecture notes are based on\nan evolving set of lectures presented at a number of schools but most closely\nfollow a series of seven lectures given at the TASI-96 summer school on\nStrings, Fields and Duality.",
+    "pdf_url": "http://arxiv.org/pdf/hep-th/9702155v1",
+    "published": "1997-02-23"
+  },
+  "1004.4858v3": {
+    "title": "Algebraic solutions in Open String Field Theory - a lightning review",
+    "authors": [
+      "Martin Schnabl"
+    ],
+    "summary": "In this short talk we review basic ideas of string field theory with the\nemphasis on the recent developments. We show how without too much technicality\none can look for analytic solutions to Witten's open string field theory. This\nis an expanded version of a talk given by the author over the last year at a\nnumber of occasions and notably at the conference \"Selected Topics in\nMathematical and Particle Physics\" in honor of Prof. Jiri Niederle's 70th\nbirthday.",
+    "pdf_url": "http://arxiv.org/pdf/1004.4858v3",
+    "published": "2010-04-27"
+  },
+  "2112.05506v1": {
+    "title": "Bernoulli Random Matrices",
+    "authors": [
+      "Alice Guionnet"
+    ],
+    "summary": "Random Matrix theory has become a field on its own with a breadth of new\nresults, techniques, and ideas in the last thirty years. In these proceedings\nof the 8ECM 2021, I illustrate some of these advances by describing what is\nknown about the spectrum and the eigenvectors of Bernoulli matrices.",
+    "pdf_url": "http://arxiv.org/pdf/2112.05506v1",
+    "published": "2021-12-10"
+  },
+  "hep-th/9110011v1": {
+    "title": "Quantum Gravity and String Theory, What Have We Learned?",
+    "authors": [
+      "A. Strominger"
+    ],
+    "summary": "This is a non-technical talk given at the Sixth Marcel Grossman Meeting on\nGeneral Relativity, Kyoto, Japan in June 1991. Some developments in string\ntheory over the last six years are discussed together with their qualitative\nimplications for issues in quantum gravity.",
+    "pdf_url": "http://arxiv.org/pdf/hep-th/9110011v1",
+    "published": "1991-10-03"
+  }
+}

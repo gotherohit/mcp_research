@@ -1,0 +1,51 @@
+{
+  "math/0302332v1": {
+    "title": "Open and Closed String field theory interpreted in classical Algebraic Topology",
+    "authors": [
+      "Dennis Sullivan"
+    ],
+    "summary": "There is an interpretation of open string field theory in algebraic topology.\nAn interpretation of closed string field theory can be deduced from this open\nstring theory to obtain as well the interpretation of open and closed string\nfield theory combined.",
+    "pdf_url": "http://arxiv.org/pdf/math/0302332v1",
+    "published": "2003-02-26"
+  },
+  "hep-th/0609182v1": {
+    "title": "Towards open-closed string duality: Closed Strings as Open String Fields",
+    "authors": [
+      "L. Bonora",
+      "N. Bouatta",
+      "C. Maccaferri"
+    ],
+    "summary": "We establish a translation dictionary between open and closed strings,\nstarting from open string field theory. Under this correspondence, (off-shell)\nlevel-matched closed string states are represented by star algebra projectors\nin open string field theory. Particular attention is paid to the zero mode\nsector, which is indispensable in order to generate closed string states with\nmomentum. As an outcome of our identification, we show that boundary states,\nwhich in closed string theory represent D-branes, correspond to the identity\nstring field in the open string side. It is to be remarked that closed string\ntheory D-branes are thus given by an infinite superposition of star algebra\nprojectors.",
+    "pdf_url": "http://arxiv.org/pdf/hep-th/0609182v1",
+    "published": "2006-09-26"
+  },
+  "hep-th/9412212v1": {
+    "title": "Temporal-gauge String Field with Open Strings",
+    "authors": [
+      "T. Mogami"
+    ],
+    "summary": "A string field theory including open string fields is constructed in the\ntemporal gauge. It consists of string interaction vertices similar to the\nlight-cone gauge string field theory. A slight modification of the definition\nof the time coordinate is needed because of the existence of the open string\nend points.",
+    "pdf_url": "http://arxiv.org/pdf/hep-th/9412212v1",
+    "published": "1994-12-24"
+  },
+  "2201.09632v1": {
+    "title": "Cubic Closed String Field Theory on a Double Layer",
+    "authors": [
+      "Taejin Lee"
+    ],
+    "summary": "Various studies have attempted to extend the Witten's cubic open string field\ntheory to the cubic closed string field theory, which may describe Einstein\ngravity in the low energy sector consistently. In the present study we propose\na cubic closed string field theory, introducing a double layer to describe the\nclosed string world-sheet as an extension of the open string world-sheet of the\nWitten's cubic open string. We mapped the closed string world-sheet onto the\ncomplex plane, of which the lower half plane is completely covered by the\nextended part of the string world-sheet. Using the Green's function on the\ncomplex plane, evaluated the Polyakov string path integral, from which we\nextracted the Neumann functions and the vertex operators. We obtained the one\nand two string vertices (identities) following this procedure and finally the\ncubic string vertex operator. It is notable that the obtained cubic string\nscattering amplitude coincide with the cubic graviton interaction of the\nEinstein gravity. Thus, the resultant cubic closed string field theory\nconsistently describes the Einstein gravity. We also show that the\nKawai-Lewellen-Tye (KLT) relations of the first quantized string theory may be\nmanifested in the cubic closed string field theory.",
+    "pdf_url": "http://arxiv.org/pdf/2201.09632v1",
+    "published": "2022-01-24"
+  },
+  "hep-th/0603068v2": {
+    "title": "Twist Field as Three String Interaction Vertex in Light Cone String Field Theory",
+    "authors": [
+      "Isao Kishimoto",
+      "Sanefumi Moriyama",
+      "Shunsuke Teraguchi"
+    ],
+    "summary": "It has been suggested that matrix string theory and light-cone string field\ntheory are closely related. In this paper, we investigate the relation between\nthe twist field, which represents string interactions in matrix string theory,\nand the three-string interaction vertex in light-cone string field theory\ncarefully. We find that the three-string interaction vertex can reproduce some\nof the most important OPEs satisfied by the twist field.",
+    "pdf_url": "http://arxiv.org/pdf/hep-th/0603068v2",
+    "published": "2006-03-09"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "1305.6961v2": {
+    "title": "Fluid Mechanics of Strings",
+    "authors": [
+      "Daniel Schubring",
+      "Vitaly Vanchurin"
+    ],
+    "summary": "We consider conserved currents in an interacting network of one-dimensional\nobjects (or strings). Singular currents localized on a single string are\nconsidered in general, and a formal procedure for coarse-graining over many\nstrings is developed. This procedure is applied to strings described by the\nNambu-Goto action such as cosmic strings. In addition to conserved currents\ncorresponding to the energy-momentum tensor, we consider an antisymmetric\ntensor of conserved currents related to the string tangent vector. Under the\nassumption of local equilibrium we derive a complete set of hydrodynamic\nequations for strings.",
+    "pdf_url": "http://arxiv.org/pdf/1305.6961v2",
+    "published": "2013-05-29"
+  },
+  "1212.5372v3": {
+    "title": "Detectability of the second resonance of low-scale string models at the LHC",
+    "authors": [
+      "Manami Hashi",
+      "Noriaki Kitazawa"
+    ],
+    "summary": "Low-scale string models are phenomenological models in String Theory, in\nwhich the string scale M_s is of the order of TeV. String excited states which\nare characteristic modes in low-scale string models can be observed as\nresonances in dijet invariant mass distributions at the LHC. If a new heavy\nresonance is discovered at the LHC, it is important to investigate whether the\nresonance comes from low-scale string models. In this work, two analyses are\nperformed: One is observing higher spin degeneracy of string excited states by\nan angular distribution analysis on the resonance, since the string resonance\nconsists of several degenerate states with different spins. The other is\nobserving second string excited states by a search for a second resonance in\ndijet invariant mass distributions, since second string excited states have\ncharacteristic masses of sqrt{2} times of masses of first string excited\nstates. As the result of Monte Carlo simulations assuming the 14 TeV LHC, we\ngive required luminosities for 5 sigma confirmation in each analysis, in case\nof M_s = 4.5, 4.75 and 5 TeV.",
+    "pdf_url": "http://arxiv.org/pdf/1212.5372v3",
+    "published": "2012-12-21"
+  },
+  "hep-th/9511157v2": {
+    "title": "Recent Results in String Duality",
+    "authors": [
+      "Joseph Polchinski"
+    ],
+    "summary": "This is a talk given at YKIS '95, primarily to non-string theorists. I review\nthe evidence for string duality, the principle that any string theory at strong\ncoupling looks like another string theory at weak coupling. A postscript\nsummarizes developments since the conference.",
+    "pdf_url": "http://arxiv.org/pdf/hep-th/9511157v2",
+    "published": "1995-11-22"
+  },
+  "1311.4236v2": {
+    "title": "Massive neutral particles on heterotic string theory",
+    "authors": [
+      "Marco Olivares",
+      "J. R. Villanueva"
+    ],
+    "summary": "The motion of massive particles in the background of a charged black hole in\nheterotic string theory, which is characterized by a parameter $\\alpha$, is\nstudied in detail in this paper. Since it is possible to write this space-time\nin the Einstein frame, we perform a quantitative analysis of the time-like\ngeodesics by means of the standard Lagrange procedure. Thus, we obtain and\nsolve a set of differential equations and then we describe the orbits in terms\nof the elliptic $\\wp$-Weierstra{\\ss} function. Also, by making an elementary\nderivation developed by Cornbleet (Am. J. Phys. \\textbf{61} 7, (1993) 650 -\n651) we obtain the correction to the angle of advance of perihelion to first\norder in $\\alpha$, and thus, by comparing with Mercury's data we give an\nestimation for the value of this parameter, which yields an {\\it heterotic\nsolar charge} $Q_{\\odot}\\simeq 0.728\\,[\\textrm{Km}]= 0.493\\, M_{\\odot}$.\nTherefore, in addition to the study on null geodesics performed by Fernando\n(Phys. Rev. D {\\bf 85}, (2012) 024033), this work completes the geodesic\nstructure for this class of space-time.",
+    "pdf_url": "http://arxiv.org/pdf/1311.4236v2",
+    "published": "2013-11-18"
+  },
+  "1310.8602v2": {
+    "title": "Worldsheet factorization for twistor-strings",
+    "authors": [
+      "Tim Adamo"
+    ],
+    "summary": "We study the multiparticle factorization properties of two worldsheet\ntheories which--at tree-level--describe the scattering of massless particles in\nfour dimensions: the Berkovits-Witten twistor-string for N=4 super-Yang-Mills\ncoupled to N=4 conformal supergravity, and the Skinner twistor-string for N=8\nsupergravity. By considering these string-like theories, we can study\nfactorization at the level of the worldsheet before any Wick contractions or\nintegrals have been performed; this is much simpler than considering the\nfactorization properties of the amplitudes themselves. In Skinner's\ntwistor-string this entails the addition of worldsheet gravity as well as a\nformalism that represents all external states in a manifestly symmetric way,\nwhich we develop explicitly at genus zero. We confirm that the scattering\namplitudes of Skinner's theory, as well as the gauge theory amplitudes for the\nplanar sector of the Berkovits-Witten theory, factorize appropriately at genus\nzero. In the non-planar sector, we find behavior indicative of conformal\ngravity in the Berkovits-Witten twistor-string. We contrast factorization in\ntwistor-strings with the story in ordinary string theory, and also make some\nremarks on higher genus factorization and disconnected prescriptions.",
+    "pdf_url": "http://arxiv.org/pdf/1310.8602v2",
+    "published": "2013-10-31"
+  }
+}

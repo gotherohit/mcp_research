@@ -1,0 +1,28 @@
+{
+  "2410.20777v1": {
+    "title": "KD-LoRA: A Hybrid Approach to Efficient Fine-Tuning with LoRA and Knowledge Distillation",
+    "authors": [
+      "Rambod Azimi",
+      "Rishav Rishav",
+      "Marek Teichmann",
+      "Samira Ebrahimi Kahou"
+    ],
+    "summary": "Large language models (LLMs) have demonstrated remarkable performance across\nvarious downstream tasks. However, the high computational and memory\nrequirements of LLMs are a major bottleneck. To address this,\nparameter-efficient fine-tuning (PEFT) methods such as low-rank adaptation\n(LoRA) have been proposed to reduce computational costs while ensuring minimal\nloss in performance. Additionally, knowledge distillation (KD) has been a\npopular choice for obtaining compact student models from teacher models. In\nthis work, we present KD-LoRA, a novel fine-tuning method that combines LoRA\nwith KD. Our results demonstrate that KD-LoRA achieves performance comparable\nto full fine-tuning (FFT) and LoRA while significantly reducing resource\nrequirements. Specifically, KD-LoRA retains 98% of LoRA's performance on the\nGLUE benchmark, while being 40% more compact. Additionally, KD-LoRA reduces GPU\nmemory usage by 30% compared to LoRA, while decreasing inference time by 30%\ncompared to both FFT and LoRA. We evaluate KD-LoRA across three encoder-only\nmodels: BERT, RoBERTa, and DeBERTaV3. Code is available at\nhttps://github.com/rambodazimi/KD-LoRA.",
+    "pdf_url": "http://arxiv.org/pdf/2410.20777v1",
+    "published": "2024-10-28"
+  },
+  "2402.07721v2": {
+    "title": "LoRA-drop: Efficient LoRA Parameter Pruning based on Output Evaluation",
+    "authors": [
+      "Hongyun Zhou",
+      "Xiangyu Lu",
+      "Wang Xu",
+      "Conghui Zhu",
+      "Tiejun Zhao",
+      "Muyun Yang"
+    ],
+    "summary": "Low-Rank Adaptation (LoRA) is currently the most commonly used\nParameter-efficient fine-tuning (PEFT) method, it introduces auxiliary\nparameters for each layer to fine-tune the pre-trained model under limited\ncomputing resources. However, it still faces resource consumption challenges\nduring training when scaling up to larger models. Most previous studies have\ntackled this issue by using pruning techniques, which involve removing LoRA\nparameters deemed unimportant. Nonetheless, these efforts only analyze LoRA\nparameter features to evaluate their importance, such as parameter count, size,\nand gradient. In fact, the output of LoRA (product of LoRA parameter and hidden\nstate), directly impacts the final results. Preliminary experiments indicate\nthat a fraction of LoRA elements possesses significantly high output values,\nsubstantially influencing the layer output. Motivated by the observation, we\npropose LoRA-drop. Concretely, LoRA-drop evaluates the importance of LoRA based\non the LoRA output. Then we retain LoRA for important layers and the other\nlayers share the same LoRA. We conduct abundant experiments with models of\ndifferent scales on NLU and NLG tasks. Results demonstrate that LoRA-drop can\nachieve performance comparable to full fine-tuning and LoRA, while retaining\n50\\% of the LoRA parameters on average.",
+    "pdf_url": "http://arxiv.org/pdf/2402.07721v2",
+    "published": "2024-02-12"
+  }
+}

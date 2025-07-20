@@ -1,0 +1,51 @@
+{
+  "hep-th/9305089v1": {
+    "title": "Classical String Solitons",
+    "authors": [
+      "Ramzi R. Khuri"
+    ],
+    "summary": "We discuss some recent work in the field of classical solitonic solutions in\nstring theory. In particular, we construct instanton and monopole solutions and\ndiscuss the dynamics of string-like solitons. Some of the motivation behind\nthis work is that instantons may provide a nonperturbative understanding of the\nvacuum structure of string theory, while monopoles may appear in string\npredictions for grand unification. The string-like solitons represent extended\nstates of fundamental strings. The essential role of supersymmetry in both the\nsaturation of the Bogomol'nyi bound and in the cancellation of higher order\ncorrections is emphasized. (Talk given at the International Workshop: ``Recent\nAdvances in the Superworld'', Houston Advanced Research Center, The Woodlands,\nTX, April 14-16, 1993.)",
+    "pdf_url": "http://arxiv.org/pdf/hep-th/9305089v1",
+    "published": "1993-05-19"
+  },
+  "hep-th/9311083v1": {
+    "title": "Conformally Invariant Off-shell Strings",
+    "authors": [
+      "R. C. Myers",
+      "V. Periwal"
+    ],
+    "summary": "Recent advances in non-critical string theory allow a unique continuation of\ncritical Polyakov string amplitudes to off-shell momenta, while preserving\nconformal invariance. These continuations possess unusual, apparently stringy,\ncharacteristics, as we illustrate with our results for three-point functions.\n(Talk by R.C.M. at Strings '93)",
+    "pdf_url": "http://arxiv.org/pdf/hep-th/9311083v1",
+    "published": "1993-11-15"
+  },
+  "hep-th/9211078v1": {
+    "title": "Off-shell string physics",
+    "authors": [
+      "Robert C. Myers",
+      "Vipul Periwal"
+    ],
+    "summary": "Recent advances in non-critical string theory allow a unique continuation,\npreserving conformal invariance, of critical Polyakov string amplitudes to\noff-shell momenta. These continuations possess unusual, apparently stringy,\ncharacteristics, which are unlikely to be reproduced in a string field theory.\nThus our results may be an indication that some fundamentally new formulation,\nother than string field theory, will be required to extend our understanding of\ncritical strings beyond the Polyakov path integral. Three-point functions are\nexplicitly calculated. The tree-level effective potential is computed for the\ntachyon. (This preprint includes some computations used to arrive at results\nmentioned in hep-th/9211016.)",
+    "pdf_url": "http://arxiv.org/pdf/hep-th/9211078v1",
+    "published": "1992-11-17"
+  },
+  "hep-th/9211016v2": {
+    "title": "Conformally invariant off-shell string physics",
+    "authors": [
+      "Robert C. Myers",
+      "Vipul Periwal"
+    ],
+    "summary": "Using recent advances in the understanding of non-critical strings, we\nconstruct a unique, conformally invariant continuation to off-shell momenta of\nPolyakov amplitudes in critical string theory. Three-point amplitudes are\nexplicitly calculated. These off-shell amplitudes possess some unusual,\napparently stringy, characteristics, which are unlikely to be reproduced in a\nstring field theory. Thus our results may be an indication that some\nfundamentally new formulation, other than string field theory, will be required\nto extend our understanding of critical strings beyond the Polyakov path\nintegral.",
+    "pdf_url": "http://arxiv.org/pdf/hep-th/9211016v2",
+    "published": "1992-11-04"
+  },
+  "hep-th/9210142v1": {
+    "title": "Recent Efforts in the Computation of String Couplings:",
+    "authors": [
+      "Albrecht Klemm",
+      "Stefan Theisen"
+    ],
+    "summary": "We review recent advances towards the computation of string couplings.\nDuality symmetry, mirror symmetry, Picard-Fuchs equations, etc. are some of the\ntools.",
+    "pdf_url": "http://arxiv.org/pdf/hep-th/9210142v1",
+    "published": "1992-10-28"
+  }
+}

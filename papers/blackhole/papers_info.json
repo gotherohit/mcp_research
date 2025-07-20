@@ -1,0 +1,52 @@
+{
+  "0710.0974v1": {
+    "title": "Hawking radiation in GHS and non-extremal D1-D5 blackhole via covariant anomalies",
+    "authors": [
+      "Sunandan Gangopadhyay",
+      "Shailesh Kulkarni"
+    ],
+    "summary": "We apply the method of Banerjee and Kulkarni (arXiv:0707.2449, [hep-th]) to\nprovide a derivation of Hawking radiation from the GHS (stringy) blackhole\nwhich falls in the class of the most general spherically symmetric blackholes\n($\\sqrt{-g}\\neq 1$) and also the non-extremal $D1-D5$ blackhole using only\ncovariant gravitational anomalies.",
+    "pdf_url": "http://arxiv.org/pdf/0710.0974v1",
+    "published": "2007-10-04"
+  },
+  "gr-qc/0608094v1": {
+    "title": "Accelerating Universe Around A Blackhole",
+    "authors": [
+      "A. M. Harunar Rashid",
+      "Arshad Momen",
+      "A. L. Choudhury"
+    ],
+    "summary": "We have assumed that in a physical universe a blackhole is created some\nwhere. We conjecture that this blackhole will then separate itself from the\nphysical universe and will build up an extra dimensional entity associated with\nthe physical universe. The extra dimensional entity we suppose to be orthogonal\nto the physical universe. We further conjecture that this blackhole is a\nSchwartzschild blackhole. We assume that this physical universe and the\nblackhole span a seven dimensional space with a common time coordinate. We then\ngenerate the Einstein equation. Using the time-blackhole and the time-time\ncomponent of the equation we show that the Hubble parameter is positive and\ntime dependent if we conjecture that both scale factor and the radius of the\nblackhole reduces exponetially. Under the same assumption we have also\ncalculated the deacceleration parameter and shown that under certain constrain\nthe universe accelerates.",
+    "pdf_url": "http://arxiv.org/pdf/gr-qc/0608094v1",
+    "published": "2006-08-20"
+  },
+  "1003.1579v1": {
+    "title": "On the blackhole dynamic potentials",
+    "authors": [
+      "Koustubh Ajit Kabe"
+    ],
+    "summary": "In the following paper, certain blackhole dynamic potentials have been\ndeveloped definitively on the lines of classical thermodynamics. These\npotentials have been refined in view of the small differences in the equations\nof the laws of blackhole dynamics as given by Bekenstein and those of\nthermodynamics. Nine fundamental blackhole dynamical relations have been\ndeveloped akin to the four fundamental thermodynamic relations of Maxwell. The\nspecific heats and have been defined. For a blackhole, these quantities are\nnegative. The equation has been obtained as an application of these fundamental\nrelations. Time reversible processes observing constancy of surface gravity are\nconsidered and an equation connecting the internal energy of the blackhole, the\nadditional available energy defined as the first free energy function, and the\nsurface gravity, has been obtained. Finally as a further application of the\nfundamental relations, it has been proved for a homogeneous gravitational field\nin blackhole spacetimes that . This is dubbed as the homogeneous fluid\napproximation in context of the blackholes.",
+    "pdf_url": "http://arxiv.org/pdf/1003.1579v1",
+    "published": "2010-03-08"
+  },
+  "1906.11714v2": {
+    "title": "Blackhole in Nonlocal Gravity: Comparing Metric from Newmann-Janis Algorithm with Slowly Rotating Solution",
+    "authors": [
+      "Utkarsh Kumar",
+      "Sukanta Panda",
+      "Avani Patel"
+    ],
+    "summary": "The strong gravitational field near massive blackhole is an interesting\nregime to test General Relativity(GR) and modified gravity theories. The\nknowledge of spacetime metric around a blackhole is a primary step for such\ntests. Solving field equations for rotating blackhole is extremely challenging\ntask for the most modified gravity theories. Though the derivation of Kerr\nmetric of GR is also demanding job, the magical Newmann-Janis algorithm does it\nwithout actually solving Einstein equation for rotating blackhole. Due to this\nnotable success of Newmann-Janis algorithm in the case of Kerr metric, it has\nbeen being used to obtain rotating blackhole solution in modified gravity\ntheories. In this work, we derive the spacetime metric for the external region\nof a rotating blackhole in a nonlocal gravity theory using Newmann-Janis\nalgorithm. We also derive metric for a slowly rotating blackhole by\nperturbatively solving field equations of the theory. We discuss the\napplicability of Newmann-Janis algorithm to nonlocal gravity by comparing slow\nrotation limit of the metric obtained through Newmann-Janis algorithm with\nslowly rotating solution of the field equation.",
+    "pdf_url": "http://arxiv.org/pdf/1906.11714v2",
+    "published": "2019-06-27"
+  },
+  "hep-th/9201053v1": {
+    "title": "Comments on No-Hair Theorems and Stabilty of Blackholes",
+    "authors": [
+      "S. P. de Alwis"
+    ],
+    "summary": "In the light of recent blackhole solutions inspired by string theory, we\nreview some old statements on field theoretic hair on blackholes. We also\ndiscuss some stability issues. In particular we argue that the two dimensional\nstring blackhole solution is semi-classically stable while the naked\nsingularity is unstable to tachyon fluctuations. Finally we comment on the\nrelation between the linear dilaton theory and the $2d$ blackhole solution.",
+    "pdf_url": "http://arxiv.org/pdf/hep-th/9201053v1",
+    "published": "1992-01-24"
+  }
+}
